@@ -3,10 +3,13 @@
 ### En este tutorial te mostraré como cargar UNA capa base a tu mapa, para de una vez por todas comiences el diseño de tu primer mapa en la web
 Para empezar, ingresamos a la página: https://leaflet-extras.github.io/leaflet-providers/preview/  y visualizaremos la siguiente pantalla
 
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarUNACapaBase/master/img/Catalogo.png)
+
 En el costado derecho, podremos observar una columna en la que podemos navegar para encontrar todas las previsualizaciones al dar click. 
 
 ### Si te das cuenta, cada vez que cambiamos de capa base, se actualiza la información que está en el recuadro de la esquina superior izquierda.
 
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarUNACapaBase/master/img/Recuadro-crop.png)
 
 Este recuadro nos brinda los siguientes datos
   1.	Fuente: Nos indica a quién pertenecen los datos del mapa base que elegimos 
@@ -75,3 +78,4 @@ Se declara una nueva variable y se le asigna un nombre que podamos identificar, 
 
 ### Ejecutamos en el navegador de nuestra preferencia, y por fin podremos ver un mapa en el lienzo que estábamos trabajando.
 
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarUNACapaBase/master/img/CapaBase.png)
