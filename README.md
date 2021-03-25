@@ -79,3 +79,5 @@ Se declara una nueva variable y se le asigna un nombre que podamos identificar, 
 ### Ejecutamos en el navegador de nuestra preferencia, y por fin podremos ver un mapa en el lienzo que estábamos trabajando.
 
 ![screenshot](https://raw.githubusercontent.com/sampach95/CargarUNACapaBase/master/img/CapaBase.png)
+
+Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
