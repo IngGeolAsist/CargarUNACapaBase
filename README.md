@@ -82,4 +82,4 @@ Se declara una nueva variable y se le asigna un nombre que podamos identificar, 
 
 Siguiente Tutorial https://github.com/sampach95/CargarVARIASCapasBase
 
-Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
+Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
